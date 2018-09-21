@@ -2,4 +2,4 @@
 
 Hello branch
 
-dev: modify
+Creating a new branch is quick AND simple.
