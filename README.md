@@ -4,4 +4,4 @@ Hello branch
 
 Creating a new branch is quick AND simple.
 
-Leo is a stupid
+Horbin and Leo both are stupid
