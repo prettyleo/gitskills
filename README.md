@@ -10,5 +10,4 @@ Today is Monday.
 
 It's raining outside.
 
-
 I want to modify readme.md file
